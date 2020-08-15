@@ -1,7 +1,6 @@
-- Meu trabalho atual: Megasul Sistemas
-- [Meu Linkedin](https://www.linkedin.com/in/marlontiedt/ "Meu Linkedin")
-- [Meu Blog](http://www.tiedt.com.br/ "Meu Blog")
-- 🌱 Atualmente estudando Flutter (para desenvolvimento mobile), ReactJS e ReactNative pela Udemy e fazendo os cursos / bootcamps da [http://digitalinnovation.one/](http://digitalinnovation.one/ "http://digitalinnovation.one/")
+[Meu Linkedin](https://www.linkedin.com/in/marlontiedt/ "Meu Linkedin")
+
+🌱 Atualmente estudando Flutter (para desenvolvimento mobile), ReactJS e ReactNative pela Udemy e fazendo os cursos / bootcamps da [http://digitalinnovation.one/](http://digitalinnovation.one/ "http://digitalinnovation.one/")
 
 # Sobre
 
