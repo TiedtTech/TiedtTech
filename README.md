@@ -1,3 +1,6 @@
+🔭 Megasul Sistemas
+🌱 Atualmente estudando Flutter (para desenvolvimento mobile), ReactJS e ReactNative pela Udemy e fazendo os cursos / bootcamps da [http://digitalinnovation.one/](http://digitalinnovation.one/ "http://digitalinnovation.one/")
+
 Sou Engenheiro de Telecomunicações com sólida carreira em desenvolvimento de software, como programador e analista de sistemas, tenho mais de 16 anos de experiência.
 
 Vivência na área de gestão empresarial (ERP) e varejo, ensaios laboratoriais e calibrações, GED (gestão eletrônica de documentos) e integrações entre sistemas utilizando WebServices e Api Rest.
@@ -42,10 +45,6 @@ E não poderia esquecer a paixão por **cervejas artesanais**.
 	- Placas de Desenvolvimento (Arduino, Intel Edison, Orange PI One entre outras);
 	- Robótica.
 
-ww
-
-
-
 
 
 <!--
@@ -54,11 +53,11 @@ ww
 
 ### Hi there 👋
 
-🔭 Megasul Sistemas
+
 Here are some ideas to get you started:
 
 
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
