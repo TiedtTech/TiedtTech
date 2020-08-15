@@ -1,4 +1,15 @@
-[Meu Linkedin](https://www.linkedin.com/in/marlontiedt/ "Meu Linkedin")
+# Marlon Tiedt
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/marlontiedt/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="joaoinacioneto" height="30" width="30" /></a>
+
+<a href="https://pt.stackoverflow.com/users/6437/tiedt-tech" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="birobirobiro" height="30" width="30" /></a>
+
+<a href="mailto:marlon.tiedt@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="birobirobiro" height="30" width="30" /></a>
+
+</p>
+
 
 🌱 Atualmente estudando Flutter (para desenvolvimento mobile), ReactJS e ReactNative pela Udemy e fazendo os cursos / bootcamps da [http://digitalinnovation.one/](http://digitalinnovation.one/ "http://digitalinnovation.one/")
 
