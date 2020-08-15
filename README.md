@@ -1,4 +1,6 @@
 - 🔭 Megasul Sistemas
+- [Meu Linkedin](https://www.linkedin.com/in/marlontiedt/ "Meu Linkedin")
+- [Meu Blog](https://www.tiedt.com.br/ "Meu Blog")
 - 🌱 Atualmente estudando Flutter (para desenvolvimento mobile), ReactJS e ReactNative pela Udemy e fazendo os cursos / bootcamps da [http://digitalinnovation.one/](http://digitalinnovation.one/ "http://digitalinnovation.one/")
 
 Sou Engenheiro de Telecomunicações com sólida carreira em desenvolvimento de software, como programador e analista de sistemas, tenho mais de 16 anos de experiência.
