@@ -1,5 +1,15 @@
 # Marlon Tiedt
 
+<p align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=TiedtTech&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=dark"
+    />
+  </a>
+</p>
+
 <p align="center">
 
 <a href="https://www.linkedin.com/in/marlontiedt/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="joaoinacioneto" height="30" width="30" /></a>
