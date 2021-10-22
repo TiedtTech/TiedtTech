@@ -1,70 +1,47 @@
-# Marlon Tiedt
+github profile markdown generator logo
+GitHub Profile README Generator
+Star this repo
+7253
+Fork on GitHub
+1411
 
+back to edit
+
+copy-markdown
+
+download markdown
+
+download backup
+
+preview
+<h1 align="center">Olá 👋, eu sou Marlon (TiedtTech)</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tiedttech&label=Profile%20views&color=0e75b6&style=flat" alt="tiedttech" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tiedttech" alt="tiedttech" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/tiedttech" target="blank"><img src="https://img.shields.io/twitter/follow/tiedttech?logo=twitter&style=for-the-badge" alt="tiedttech" /></a> </p>
+
+- 📝 I regularly write articles on [www.tiedt.com.br](www.tiedt.com.br)
+
+- 📫 How to reach me **marlon.tiedt@gmail ou tiedt@tiedt.com.br**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=TiedtTech&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=dark"
-    />
-  </a>
+<a href="https://dev.to/tiedttech" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="tiedttech" height="30" width="40" /></a>
+<a href="https://twitter.com/tiedttech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tiedttech" height="30" width="40" /></a>
 </p>
 
-<p align="center">
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<a href="https://www.linkedin.com/in/marlontiedt/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="joaoinacioneto" height="30" width="30" /></a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tiedttech&show_icons=true&locale=en&layout=compact" alt="tiedttech" /></p>
 
-<a href="https://pt.stackoverflow.com/users/6437/tiedt-tech" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="birobirobiro" height="30" width="30" /></a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tiedttech&show_icons=true&locale=en" alt="tiedttech" /></p>
 
-<a href="mailto:marlon.tiedt@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="birobirobiro" height="30" width="30" /></a>
-
-</p>
-
-
-🌱 Atualmente estudando Flutter (para desenvolvimento mobile), ReactJS e ReactNative pela Udemy e fazendo os cursos / bootcamps da [http://digitalinnovation.one/](http://digitalinnovation.one/ "http://digitalinnovation.one/")
-
-# Sobre
-
-Sou Engenheiro de Telecomunicações com carreira desenvolvida na área de TI, com mais de 15 anos de experiência em análise e desenvolvimento de sistemas, apreciador de cervejas artesanais, entusiasta de novas tecnologias (IoT e mundo maker).
-
-Vivência na área de gestão empresarial (ERP) e varejo, emissão de boletos, integrações entre sistemas utilizando SOAP/ Rest Api, ensaios laboratoriais e calibrações e GED (gestão eletrônica de documentos).
-
-Experiência em Delphi (aonde tudo começou), C# (para desenvolvimento web), metodologias ágeis (Scrum, XP, Kanban), equipamentos CF-e S@T (São Paulo) e MFe (Ceará) e o sistema tributário S@T (Santa Catarina).
-
-Conhecimento avançado em banco de dados SQL Server, e intermediário em Oracle e PostgreSQL e já mexi em banco de dados não relacionais como o MongoDB;
-Estou sempre disposto a aprender novas habilidades. 
-
-Atualmente estudando Flutter (para desenvolvimento mobile), React JS, React Native, Python pela Udemy e fazendo os cursos / bootcamps da Digital Innovation One. 
-
-Tenho como hobby eletrônica, IoT (Internet das Coisas), robótica. e Arduino / ESP8622.
-E não poderia esquecer a paixão por **cervejas artesanais**.
-
-### Habilidades 
-
-#### Área de Desenvolvimento / Programação
-Arquitetura .Net, C#, MVC, Linq, Entity Framework, Delphi, HTML / JavaScript, CSS, SVN / Git, Levantamento de requisitos, elaboração de documentação, modelagem de Banco de Dados, Scrum, XP, Kanban e trabalho remoto.
-
-#### Banco de Dados
-SQL Server, Oracle, PostgreSQL, MySql, Firebird e MongoDB. 
-
-#### Diversos
-Eletrônica em Geral, Placas de Desenvolvimento (Arduino, Intel Edison, Orange PI One entre outras) e robótica.
-
-<!--
-**TiedtTech/TiedtTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-### Hi there 👋
-
-
-Here are some ideas to get you started:
-
-
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tiedttech&" alt="tiedttech" /></p>
